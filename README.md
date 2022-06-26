@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning Cloud DevOps and Microsoft Power Platform
+😄 Pronouns: She/Her
 
 <!--
 **Aloladeali/Aloladeali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
